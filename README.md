@@ -6,9 +6,7 @@
 
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ymkwon3)
 
-2021-12 아이티센 서류합격, 면접준비...
-2021-12-27 아이티센 면접끝
-2022-01-04 아이티센 불합격...
+개발좋아
 
 <!--
 **ymkwon3/ymkwon3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
