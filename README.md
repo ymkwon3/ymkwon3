@@ -37,6 +37,7 @@
   <br>
 </div>
 개발좋아
+블로그 : https://mydevarea.tistory.com/
 
 <!--
 **ymkwon3/ymkwon3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
