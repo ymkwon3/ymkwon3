@@ -36,7 +36,6 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <br>
 </div>
-개발좋아
 <br>
 블로그 : https://mydevarea.tistory.com/
 <br>
