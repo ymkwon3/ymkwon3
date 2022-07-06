@@ -30,6 +30,7 @@
 블로그 : https://mydevarea.tistory.com/
 <br>
 2022.02~항해99 
+2022.06~항해99 수료
 
 <!--
 **ymkwon3/ymkwon3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
