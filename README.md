@@ -27,13 +27,11 @@
   <br>
 </div>
 <br>
-블로그 : https://mydevarea.tistory.com/
-<br>
 2022.02~항해99 
 <br>
 2022.06~항해99 수료
 <br>
-MISE입사~
+2022.08 MISE입사
 
 <!--
 **ymkwon3/ymkwon3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
